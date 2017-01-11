@@ -50,6 +50,7 @@
   "CONTACT_ORGANISERS": "Contact Organisers",
   "CONTACT_ORGANISERS_DESC": "The following is a list of contacts for emergencies and general inquiries:",
   "CONTACT_SUPPORT": "Contact Support",
+  "CONTENT_NOT_CONFIGURED_DESC": "<span style=\"color: red;\">The content for this section has not been configured!  Please configure this section in the Administration area.</span>",
   "CONTENT_VISIBILITY": "Content visibility:",
   "CREATE_A_GAME_JAM": "Create a game jam",
   "CREATE_A_SITE_DESC": "Create a site for your game jam with venue information and ticket registration.  We help you host game jams at venues by providing a site with all the information attendees need.",
