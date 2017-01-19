@@ -143,6 +143,7 @@
   "IF_YOU_WANT_TO_ATTEND_THE_JAM_DESC": "If you want to attend the jam, you need to click on \"Use for Myself\" next to one of the tickets.",
   "IMPORT_TRANSLATIONS": "Import Translations",
   "IMPORT_TRANSLATIONS_DESC": "You can use this form to import translations from another JamHost instance.  This will import the translations into the <strong>{0}</strong> language, and apply on top of any existing customized translations you have.",
+  "IMPORT_USERS": "Import Users",
   "INFORMATION_PAGES": "Information Pages",
   "INFORMATION_PAGES_SAVED": "Information Pages Saved!",
   "INFORMATION_PAGES_SAVED_DESC": "The changes to the information pages were saved.",
