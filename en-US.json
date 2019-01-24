@@ -378,6 +378,7 @@
   "SLACK_REDIRECT_SECOND_COUNTDOWN": "You'll be automatically redirected to Slack in {0} second.",
   "SLACK_REDIRECT_SIGNIN_PROMPT": "When asked to sign-in to Slack, use:",
   "SLACK_REDIRECT_TITLE": "Redirecting you to Slack",
+  "SLACK_REDIRECT_NO_INVITE_LINK_PROMPT": "Click here if you didn't recieve an invite",
   "SOCIAL_MEDIA": "Social media",
   "SOCIAL_MEDIA_DESC": "You can also reach out to us on social media:",
   "SOLD_OUT_EXCLAIM": "Sold Out!",
