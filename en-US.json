@@ -519,7 +519,7 @@
   "UPDATE_TICKET_TRIAL_STATUS": "Update ticket trial status",
   "UPGRADE_ACCOUNT_TO": "Upgrade account to:",
   "UPGRADE_TO_VOLUNTEER": "Change user to a volunteer",
-  "USER_ACCOUNT_TYPE_IS_NONSENSE": "User account type is {0} which doesn't make any sense in this workflow.",
+  "USER_ACCOUNT_TYPE_IS_NONSENSE": "User account type is ACCOUNT_TYPE which doesn't make any sense in this workflow.",
   "USER_BY_EMAIL_NOT_FOUND": "No such account exists with that email address!",
   "USER_EMAIL": "User Email",
   "USER_ID": "User ID",
