@@ -611,5 +611,7 @@
   "YOU_NEED_TO_ENTER_A_DISCOUNT_CODE_TO_PURCHASE_A_TICKET": "You need to enter a discount code to purchase a ticket.",
   "YOU_NEED_TO_PURCHASE_A_TICKET_OR_HAVE_ONE_GIFTED_TO_YOU": "You need to either purchase a ticket or have someone gift you a ticket to your email address.",
   "YOU_NEED_TO_SELECT_USE_FOR_MYSELF": "You need to select \"Use for Myself\" on a ticket",
-  "_LANGUAGE_NAME": "English (United States)"
+  "_LANGUAGE_NAME": "English (United States)",
+  "DOWNLOAD_URL": "Download URL: {0}",
+  "DOWNLOAD_URL_HELP_TEXT": "Override this setting if you are caching this file on your local network. <a href=\"{0}\">Download the file for caching</a>."
 }
